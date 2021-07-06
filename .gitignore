@@ -17,3 +17,5 @@
 # .hcl files from Terraform v0.14 and newer
 *.hcl
 
+id_rsa*
+id_ed25519*
